@@ -1,0 +1,2 @@
+embedding model: jinaai/jina-embeddings-v3
+llm: openai/gpt-oss-20b
